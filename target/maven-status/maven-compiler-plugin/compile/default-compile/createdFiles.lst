@@ -1,0 +1,5 @@
+edu/matc/persistence/SessionFactoryProvider.class
+edu/matc/entity/User.class
+edu/matc/restdemo/UserApplication.class
+edu/matc/restdemo/UserList.class
+edu/matc/persistence/UserDao.class

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="week-8-restful-pcataggatan:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Week8 Exercise.war">
+      <element id="artifact" artifact-name="week-8-restful-pcataggatan:war exploded" />
+    </root>
+  </artifact>
+</component>
